@@ -1,10 +1,10 @@
 {
   "version": "1.0.1",
   "release_date": "2025-09-13",
-  "notes_url": "https://github.com/kiwicode2025/CodeDocGenerator-Updates/releases/tag/v1.0.1",
+  "notes_url": "https://github.com/kiwicode2025/pBinder-Updates/releases/tag/v1.0.1",
   "download": {
-    "url": "https://github.com/kiwicode2025/CodeDocGenerator-Updates/releases/download/v1.0.1/Py2DocxPdf_1.0.1.exe",
-    "sha256": "527D409C031A4DEF01031730286BC14FE15E5420E75B543FEACF4647AEC728AB"
+    "url": "https://github.com/kiwicode2025/pBinder-Updates/releases/download/v1.0.1/pBinder.exe",
+    "sha256": "UPDATE_THIS_AFTER_YOU_BUILD_AND_UPLOAD_PBINDER_EXE"
   },
   "mandatory": false
 }
