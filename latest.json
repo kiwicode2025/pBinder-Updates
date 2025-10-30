@@ -3,7 +3,7 @@
   "release_date": "2025-09-13",
   "notes_url": "https://github.com/kiwicode2025/pBinder-Updates/releases/tag/v1.0.1",
   "download": {
-    "url": "https://github.com/kiwicode2025/pBinder-Updates/releases/download/v1.0.1/pBinder.exe",
+    "url": "https://github.com/kiwicode2025/pBinder-Updates/releases/download/v1.0.1/pBinder_1.0.1.exe",
     "sha256": "527d409c031a4def01031730286bc14fe15e5420e75b543feacf4647aec728ab"
   },
   "mandatory": false
