@@ -1,11 +1,11 @@
 {
   "download": {
-    "sha256": "f4422d21a450ab58a2048711968c0d69aa0ef3b957e88fff37e3a3c5fb0ebf6d",
-    "size": 33994071,
+    "sha256": "e9100cc8ed9035feb5ec7d4c4fe2937e11f5249ea0e4302808d916638a507c6c",
+    "size": 33562588,
     "url": "https://github.com/kiwicode2025/pBinder/releases/download/v1.0.0/pBinder.exe"
   },
   "mandatory": false,
   "notes_url": "https://github.com/kiwicode2025/pBinder/releases/tag/v1.0.0",
-  "release_date": "2026-01-09",
+  "release_date": "2026-02-11",
   "version": "1.0.0"
 }
